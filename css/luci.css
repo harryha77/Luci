@@ -1,0 +1,58 @@
+body {
+	background-color: #FFF7E4;
+	margin: 0; 
+	font-family: font-family: 'Cinzel', serif;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+
+header, footer{
+	background-color: #8B040A;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+header img {
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid #050000;
+}
+
+h1 { 
+	font-family: font-family: 'Cinzel Decorative', cursive;;
+	font-size: 40px;
+	line-height: 50px;
+}	
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h2{
+	font-size: 30px;
+	margin: 40px 0 10px;
+
+}
+
+main img {
+	max-width: 100%
+}
+
+a{
+	color: #2A0500;
+}
+
+a:hover{
+	color: white;
+	background-color: #FCB934;
+}
+
+
+
+
+
